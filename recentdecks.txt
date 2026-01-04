@@ -1,0 +1,6 @@
+RECENTDECK0:WillOspreay.dek
+RECENTDECK1:MikeTyson.dek
+RECENTDECK2:KennyOmegaDemo.txt
+RECENTDECK3:JonMoxleyDemo.txt
+RECENTDECK4:JonMoxleyDemo.dek
+RECENTDECK5:KennyOmegaDemo.dek

@@ -1,0 +1,191 @@
+<plugin>
+
+	<!-- CARD DATA FILE -->
+	<carddata>AEW.txt</carddata>
+
+	<!-- PLAYER STATS -->
+	<playerstat>
+		<label>Stamina</label>
+		<initialvalue>50</initialvalue>
+	</playerstat>
+
+	<playerstat>
+		<label>Hand Size</label>
+		<initialvalue>8</initialvalue>
+	</playerstat>	
+	
+	<playerstat>
+		<label>Market</label>
+		<initialvalue>4</initialvalue>
+	</playerstat>
+
+	<playerstat>
+		<label>Momentum from Permanent</label>
+		<initialvalue>0</initialvalue>
+	</playerstat>
+
+	<playerstat>
+		<label>Spendable Momentum</label>
+		<initialvalue>0</initialvalue>
+	</playerstat>
+
+	<!-- ZONES -->
+	<deckzone>
+		<label>Deck</label>
+		<shuffle>yes</shuffle>
+	</deckzone>
+	
+	<deckzone>
+		<label>Purchase_Deck</label>
+		<shuffle>yes</shuffle>
+	</deckzone>
+
+	<deckzone>
+		<label>Starting</label>
+	</deckzone>
+	
+	<gamezone><label>Hand</label><visibletoowner>yes</visibletoowner><visibletoothers>no</visibletoothers></gamezone>
+	<gamezone><label>Deck</label></gamezone>
+	<gamezone><label>Discard</label><visibletoowner>yes</visibletoowner><visibletoothers>yes</visibletoothers></gamezone>
+	<gamezone><label>Starting</label><visibletoowner>yes</visibletoowner><visibletoothers>no</visibletoothers></gamezone>
+	<gamezone><label>Purchase_Deck</label></gamezone>
+	<gamezone><label>Market</label><visibletoowner>yes</visibletoowner><visibletoothers>yes</visibletoothers></gamezone>
+	<gamezone><label>Removed</label><visibletoowner>yes</visibletoowner><visibletoothers>no</visibletoothers></gamezone>
+	
+	<!-- PERSONA ZONES -->
+	<gamezone><label>Wrestler</label><visibletoowner>yes</visibletoowner><visibletoothers>yes</visibletoothers></gamezone>
+	<gamezone><label>Manager</label><visibletoowner>yes</visibletoowner><visibletoothers>yes</visibletoothers></gamezone>
+	<gamezone><label>Ring</label><visibletoowner>yes</visibletoowner><visibletoothers>yes</visibletoothers></gamezone>
+	<gamezone><label>Kit</label><visibletoowner>yes</visibletoowner><visibletoothers>yes</visibletoothers></gamezone>
+	
+	<!-- PHASES -->
+	<phase><label>Ready</label></phase>
+	<phase><label>Tie-Up</label></phase>
+	<phase><label>Recovery</label></phase>
+
+	<!-- GENERAL FUNCTIONS -->
+	<generalfunction>
+		<label>Draw</label>
+		<kind>DRAWCARD</kind>
+		<includeasbutton>yes</includeasbutton>
+	</generalfunction>
+
+	<generalfunction>
+		<label>Overturn</label>
+		<kind>TRANSFERCARD</kind>
+		<sourceowner>performer</sourceowner>
+		<sourcegamezone>Deck</sourcegamezone>
+		<sourceposition>top</sourceposition>
+		<destinationgamezone>Discard</destinationgamezone>
+		<destinationposition>top</destinationposition>
+		<includeasbutton>yes</includeasbutton>
+	</generalfunction>
+
+	<generalfunction>
+		<label>Market a Card</label>
+		<kind>TRANSFERCARD</kind>
+		<sourceowner>performer</sourceowner>
+		<sourcegamezone>Purchase_Deck</sourcegamezone>
+		<sourceposition>top</sourceposition>
+		<destinationgamezone>Market</destinationgamezone>
+		<destinationposition>top</destinationposition>
+		<includeasbutton>yes</includeasbutton>
+	</generalfunction>
+
+	<!-- GENERAL ROTATION FUNCTIONS -->
+	<generalfunction>
+		<label>Commit All Cards</label>
+		<kind>MAKERIGHT90DEGREES</kind>
+		<includeasbutton>yes</includeasbutton>
+	</generalfunction>
+
+	<generalfunction>
+		<label>Uncommit All Cards</label>
+		<kind>MAKERIGHT0DEGREES</kind>
+		<includeasbutton>yes</includeasbutton>
+	</generalfunction>
+
+	<!-- CARD FUNCTIONS -->
+	<cardfunction><label>Take control</label><kind>CHANGEOWNER</kind></cardfunction>
+	<cardfunction><label>Clone</label><kind>CLONE</kind><includeasbutton>yes</includeasbutton></cardfunction>
+	<cardfunction><label>Clear</label><kind>CLEARCARD</kind><includeasbutton>yes</includeasbutton></cardfunction>
+	
+	<!-- COUNTER MANAGEMENT -->
+	<cardfunction><label>Green +1</label><kind>ADDCOUNTER</kind><color>green</color><includeasbutton>yes</includeasbutton><PositionX>0.3</PositionX><PositionY>-0.06</PositionY></cardfunction>
+	<cardfunction><label>Green -1</label><kind>REMOVECOUNTER</kind><color>green</color><includeasbutton>yes</includeasbutton></cardfunction>
+	<cardfunction><label>Red +1</label><kind>ADDCOUNTER</kind><color>red</color><includeasbutton>yes</includeasbutton><PositionX>0.5</PositionX><PositionY>-0.06</PositionY></cardfunction>
+	<cardfunction><label>Red -1</label><kind>REMOVECOUNTER</kind><color>red</color><includeasbutton>yes</includeasbutton></cardfunction>
+	<cardfunction><label>Blue +1</label><kind>ADDCOUNTER</kind><color>blue</color><includeasbutton>yes</includeasbutton><PositionX>0.7</PositionX><PositionY>-0.06</PositionY></cardfunction>
+	<cardfunction><label>Blue -1</label><kind>REMOVECOUNTER</kind><color>blue</color><includeasbutton>yes</includeasbutton></cardfunction>
+	
+	<!-- CARD ROTATION FUNCTIONS - USING CORRECT KIND VALUES -->
+	<cardfunction>
+		<label>Commit</label>
+		<kind>MAKERIGHT90DEGREES</kind>
+		<includeasbutton>yes</includeasbutton>
+	</cardfunction>
+
+	<cardfunction>
+		<label>Uncommit</label>
+		<kind>MAKERIGHT0DEGREES</kind>
+		<includeasbutton>yes</includeasbutton>
+	</cardfunction>
+	
+	<!-- FLIP FUNCTIONS -->
+	<cardfunction>
+		<label>Flip Face Down</label>
+		<kind>FLIP</kind>
+		<includeasbutton>yes</includeasbutton>
+	</cardfunction>
+	
+	<cardfunction>
+		<label>Flip Face Up</label>
+		<kind>FLIP</kind>
+		<rotation>normal</rotation>
+		<includeasbutton>yes</includeasbutton>
+	</cardfunction>
+
+	<!-- PHASE ADVANCEMENT BUTTONS -->
+	<generalfunction>
+		<label>Ready Phase Done</label>
+		<kind>SETPHASE</kind>
+		<phasename>Tie-Up</phasename>
+		<includeasbutton>yes</includeasbutton>
+	</generalfunction>
+
+	<generalfunction>
+		<label>Tie-Up Phase Done</label>
+		<kind>SETPHASE</kind>
+		<phasename>Recovery</phasename>
+		<includeasbutton>yes</includeasbutton>
+	</generalfunction>
+
+	<generalfunction>
+		<label>Recovery Phase Done</label>
+		<kind>SETPHASE</kind>
+		<phasename>Ready</phasename>
+		<includeasbutton>yes</includeasbutton>
+	</generalfunction>
+
+	<!-- SETUP FUNCTIONS -->
+	<generalfunction>
+		<label>Setup: Draw Opening Hand</label>
+		<kind>DRAWCARD</kind>
+		<numbertodraw>8</numbertodraw>
+		<includeasbutton>yes</includeasbutton>
+	</generalfunction>
+
+	<generalfunction>
+		<label>Setup: Fill Market</label>
+		<kind>TRANSFERCARD</kind>
+		<sourceowner>performer</sourceowner>
+		<sourcegamezone>Purchase_Deck</sourcegamezone>
+		<destinationgamezone>Market</destinationgamezone>
+		<number>4</number>
+		<includeasbutton>yes</includeasbutton>
+	</generalfunction>
+
+	<!-- DOUBLE CLICK CONFIGURATION -->
+	<doubleclickfunction>Commit</doubleclickfunction>
+
+</plugin>
