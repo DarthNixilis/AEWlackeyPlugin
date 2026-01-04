@@ -1,4 +1,5 @@
 <save>
+<phase>2</phase>
 <player>
 <name>VanpireBat</name>
 <seat>0</seat>
