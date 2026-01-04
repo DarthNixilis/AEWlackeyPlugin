@@ -1,0 +1,347 @@
+Name	Sets	ImageFile	Cost	Damage	Momentum	Type	Target	Traits	Wrestler Logo	Game Text
+Amazing Display of Power	AEW	AmazingDisplayOfPower.jpg	0	0	2	Action				Tie-Up Enters - You may play a maneuver from your hand or discard. If played from hand it gains Power Attack.
+Arrive In Style	AEW	ArriveInStyle.jpg	0	0	1	Action				Enters - Place up to two cards from your Market beneath your Purchase Deck, replace. Draw a card and gain 1 Stamina.
+Circle Opponent	AEW	CircleOpponent.jpg	0	0	1	Action				Ready Enters - Draw two cards then discard a card. Tie-Up Play - Play a maneuver with cost 2 or less from your discard.
+Draw Heat	AEW	DrawHeat.jpg	0	0	5	Action				
+Get a Pop	AEW	GetAPop.jpg	0	0	2	Action				Permanent.
+Irish Whip	AEW	IrishWhip.jpg	0	0	2	Action		Set-up		Tie-Up Enters - Look at the top three cards of your Draw Deck, you may play a maneuver from among them. Discard the rest. 
+Quick Thinking	AEW	QuickThinking.jpg	0	0	3	Action				Enters - Discard a card then draw two cards. 
+Ready For a Fight	AEW	ReadyForAFight.jpg	0	0	2	Action				Ready Enters - Draw a card. Ongoing - Your maneuvers are +1D.
+Study Opponent	AEW	StudyOpponent.jpg	0	0	1	Action				Enters - Draw a card, you may then Cycle a card (Discard a card to draw a card). Recovery Play - You may put a card from your Discard beneath your Purchase deck to Gain 3 Stamina.
+Take a Breather	AEW	TakeABreather.jpg	0	0	2	Action				Recovery Enters - Place a card from your discard beneath your draw deck. Gain 2 Stamina.
+A Little Bit of the Bubbly	AEW	ALittleBitOfTheBubbly.jpg	1	0	2	Action				Ongoing - Each player gets +1 Hand. Ready Enters - Choose an opponent to discard two cards. Chris Jericho Enters - Gain 3 Stamina.
+Burst of Energy	AEW	BurstOfEnergy.jpg	1	0	3	Action				Recovery Enters - Shuffle up to three cards from your discard into your draw deck. Gain 3 Stamina.
+Grab the Mic	AEW	GrabTheMic.jpg	1	0	0	Action				Sudden. Enters - Scout then choose one: Attempt to Draw Heat or Attempt to Get a Pop 
+I Digress	AEW	IDigress.jpg	1	0	2	Action				Enters - You may discard up to two cards. Place up to that many cards from your discard beneath your draw deck then draw that many cards and gain that much Stamina.
+Intimidate Opponent	AEW	IntimidateOpponent.jpg	1	0	2	Action				Enters - Opponent discards a card.
+Tighten Your Grip	AEW	TightenYourGrip.jpg	1	0	2	Action				Follow-Up - Enters - The Followed Maneuver gains Permanent this turn.
+Chain Wrestling	AEW	ChainWrestling.jpg	3	0	2	Action		Set-up		Permanent. Tie-Up Action - Commit : Play a maneuver from your hand that shares a type with one in your ring. It gains 'Enters - Draw a card'. 
+Perpetual Offensive Motion	AEW	PerpetualOffensiveMotion.jpg	3	0	2	Action				Follow-Up - When played after a maneuver you may play a maneuver ith less damage from your hand or discard. if that maneuver is a strike it gains "Play - Draw a card"
+Quicken the Pace	AEW	QuickenThePace.jpg	3	0	1	Action				Permanent. Ongoing - Each player gets +1 Hand.
+Skilled Grappler	AEW	SkilledGrappler.jpg	3	0	1	Action				Permanent. Ongoing - Your Grapple maneuvers have Cost -1.
+Skilled Striker	AEW	SkilledStriker.jpg	3	0	1	Action				Permanent. Ongoing - Your Strike maneuvers have Cost -1.
+Skilled Submissionist 	AEW	SkilledSubmissionist.jpg	3	0	1	Action				Permanent. Ongoing - Your Submission maneuvers have Cost -1.
+All Rounder	AEW	AllRounder.jpg	5	0	3	Action				Enters - If you have a Strike in your ring, Scout. A Grapple in your ring, you may put up to one card from your discard beneath your draw deck. A Submission in your ring, you may Tuck up to two cards from your Discard. If you have all three, you may then Draw a card and gain 3 Stamina. 
+Heat Magnent	AEW	HeatMagnent.jpg	5	0	0	Action				Permanent. Play - Draw a card. Ongoing - Your copies of Draw Heat gain Permanent.
+Heighten the Drama	AEW	HeightenTheDrama.jpg	5	0	1	Action				Enters - Choose one: Attempt to Draw Heat, or Attempt to Get a Pop, or Attempt to Slap Opponent, or Attempt to Intimidate Opponent.  Toni Storm - The Token created gains 'Enters - Choose another option from Heighten the Drama. 
+Strategic Beatdown	AEW	StrategicBeatdown.jpg	5	0	2	Action				Recovery Enters - Choose up to two non-response cards in your discard pile. Put up to one in your hand put the rest beneath either your draw deck or purchase deck.
+Will of the Invisible Hand	AEW	WillOfTheInvisibleHand.jpg	5	0	2	Action				Enters - Draw a card and Attempt to Draw Heat. Ready - Draw an addiontional card. Don Callis - When discarded to an ability you control gain 1 Stamina and you may Tuck a card from your Discard 
+Grinding Halt	AEW	GrindingHalt.jpg	6	0	3	Action				Ongoing - While uncommitted, maneuvers played from outside a player's hand non-cumulatively deal half damage, rounded up.
+Highly Consistent	AEW	HighlyConsistent.jpg	6	0	2	Action				Permanent. Ongoing - Maneuvers that share a name with a card in your ring are +2D.
+Taekwondo Master 	AEW	TaekwondoMaster.jpg	6	0	5	Action			Mike Bailey	Ongoing - Your Kicks are +2D. Enters - You may discard a card, if you do Play a Kick from your Discard. Otherwise Scout then draw a card. 
+Chin Up, Tits Out	AEW	ChinUpTitsOut.jpg	7	0	2	Action			Toni Storm	Enters - Gain 4 Stamina then choose up to one Action card and up to one Maneuver from your discard. Put one of them into your hand, you may then play the other.
+Amateurs	AEW	Amateurs.jpg	8	0	4	Action				Ready Enters - Opponent may discard a maneuver with cost 5 or greater. If they do not, they discard two cards.
+Purveyor of Violence 	AEW	PurveyorOfViolence.jpg	8	0	4	Action			Jon Moxley 	Enters - Reveal your the top six cards of your draw deck and pick a card from among them. Put that card into your hand then your opponent picks a maneuver from the remaining cards, play that maneuver. Discard the cards that are left. 
+Whose House?	AEW	WhoseHouse.jpg	8	0	3	Action			Swerve Strickland	Enters - Choose up to three cards from your discard and for each put it beneath your draw deck or purchase deck. Look at the top three cards of your Draw deck, you may play one of those cards, discard the rest. 
+Dominating Presence	AEW	DominatingPresence.jpg	10	0	3	Action			Bobby Lashley 	Relentless. Ongoing - Your maneuvers are +2D and Opponent's Hold is -1.
+I Must Bid You Adieu	AEW	IMustBidYouAdieu.jpg	10	0	3	Action			Kenny Omega 	Enters - Opponent discards a card, you may put up to two cards from your discard beneath your draw deck, you may put up to two cards from your Market beneath your purchase deck (replace), draw a card, and gain 3 Stamina. 
+World Class Endurance	AEW	WorldClassEndurance.jpg	10	0	5	Action				Resilient. Recovery Enters - Shuffle up to five cards from your discard into your draw deck. Gain 5 Stamina.
+Arm Drag	AEW	ArmDrag.jpg	0	2	4	Grapple	A			Enters - Gain 1 Stamina
+Armbar Takedown	AEW	ArmbarTakedown.jpg	0	2	2	Grapple	A	Set-up		Enters - You may play a submission with Target: A from your hand or discard. If played from discard and is unsuccessful put it beneath your draw deck.
+Belly-to-Belly Takedown	AEW	BellyToBellyTakedown.jpg	0	2	2	Grapple	T	Set-up		Enters - You may play a submission with Target: T from your hand or discard. If played from discard and is unsuccessful put it beneath your draw deck.
+Collar and Elbow Lockup	AEW	CollarAndElbowLockup.jpg	0	3	3	Grapple	-			Enters - Look at the top card of your draw deck, you may discard that. Then both players draw two cards. 
+Headlock Takedown	AEW	HeadlockTakedown.jpg	0	2	2	Grapple	H	Set-up		Enters - You may play a submission with Target: H from your hand or discard. If played from discard and is unsuccessful put it beneath your draw deck.
+Hip Toss	AEW	HipToss.jpg	0	4	2	Grapple	T			Permanent (This card is not removed from play as turns end)
+Single Leg Takedown	AEW	SingleLegTakedown.jpg	0	2	2	Grapple	L	Set-up		Enters - You may play a submission with Target: L from your hand or discard. If played from discard and is unsuccessful put it beneath your draw deck.
+Snapmare	AEW	Snapmare.jpg	0	1	6	Grapple	H			
+Body Slam	AEW	BodySlam.jpg	1	3	2	Grapple	T	Slam		Enters - If you have another Grapple in your ring, draw a card
+Belly-to-Back Suplex	AEW	BellyToBackSuplex.jpg	2	7	4	Grapple	T	Suplex		
+Drop Toe Hold	AEW	DropToeHold.jpg	2	5	5	Grapple	T			Enters - If you have a Strike in your ring, Stun opponent.
+Fireman's Carry	AEW	FiremansCarry.jpg	2	4	4	Grapple	T			Enters - You may put up to one card from your discard beneath your draw deck.
+Flying Head Scissors	AEW	FlyingHeadScissors.jpg	2	7	7	Grapple	H	High Risk		
+Slam	AEW	Slam.jpg	2	6	3	Grapple	T	Slam		
+Wristlock Slam	AEW	WristlockSlam.jpg	4	4	4	Grapple	A	Slam		Focus Attack 
+German Suplex	AEW	GermanSuplex.jpg	5	8	8	Grapple	H	Suplex		Enters - Opponent puts the top card of their draw deck and puts it into their market that card is +1 Cost this turn.
+Backbreaker	AEW	Backbreaker.jpg	6	6	6	Grapple	T			Enters - Stun opponent.
+Knee Breaker	AEW	KneeBreaker.jpg	7	6	4	Grapple	L			Enters - Choose a card opponent's market, discard, and Ring. They Tuck one of those cards. 
+Overhead Belly-to-Belly Suplex	AEW	OverheadBellyToBellySuplex.jpg	8	10	8	Grapple	T	Suplex		
+DDT	AEW	DDT.jpg	10	8	8	Grapple	H	DDT		Enters - Choose a card in hit opponent's ring. Put that card into their discard.
+Chokeslam	AEW	Chokeslam.jpg	12	12	12	Grapple	H	Slam		
+Avalanche Brainbuster	AEW	AvalancheBrainbuster.jpg	14	12	12	Grapple	H	High Risk, Suplex		Enters - Your opponent discards two cards.
+Paradigm Shift 	AEW	ParadigmShift.jpg	15	10*	15	Grapple	H	DDT	Jon Moxley 	*+1D for each maneuver in your ring. Finisher. Ongoing - Your hand is +1.
+Piledriver	AEW	Piledriver.jpg	15	10	10	Grapple	H			Enters - Opponent discards a card.
+Storm Zero	AEW	StormZero.jpg	16	10	10	Grapple	H		Toni Storm	Finisher. This is +1D for each Action card in your ring.
+One Winged Angel 	AEW	OneWingedAngel.jpg	20	20	20	Grapple	H		Kenny Omega 	Finisher
+Powerslam	AEW	Powerslam.jpg	6	10	6	Grapple 	T	Slam		Permanent. 
+Don Callis	AEW	DonCallisManager.jpg	N/a	N/a	3	Manager				Ready Action - Commit and discard an Action card from your hand : Draw two cards.
+Luthor	AEW	LuthorManager.jpg	N/a	N/a	2	Manager				Recovery Action - Commit and choose an Action in your Ring. It gains Permanent this turn. 
+Marina Shafir 	AEW	MarinaShafirManager.jpg	N/a	N/a	4	Manager				Tie-Up Action - Commit - Play a maneuver from your hand, it gets +1D and gains 'Enters - Scout, then draw a card' 
+Prince Nana	AEW	PrinceNanaManager.jpg	N/a	N/a	2	Manager				Ready Action - Commit and discard the top two cards of your draw deck. If a maneuver is discarded this way draw a card and gain 2 Stamina. 
+MVP	AEW	MVPManager.jpg	N/a	N/a	2	Manager 				Recovery Action - Commit : Put a maneuver with cost 4 or less from your discard beneath your draw deck.
+Anti-Air	AEW	AntiAir.jpg	0	2	2	Response				Cycling. Reverse any High Risk.
+Block	AEW	Block.jpg	0	0	2	Response				Reverse any Strike.
+Break Free	AEW	BreakFree.jpg	0	0	2	Response				Reverse any Grapple.
+Drop Step	AEW	DropStep.jpg	0	0	2	Response				Reverse any maneuver of 4D or less. Enters - Draw a card 
+Reach the Ropes	AEW	ReachTheRopes.jpg	0	0	2	Response				Reverse any Submission.
+Rookie Mistake 	AEW	RookieMistake.jpg	0	0	2	Response				Permanent. Reverse any 0 Cost card. 
+Rude Interruption	AEW	RudeInterruption.jpg	0	0	2	Response				Reverse any Action
+Escape the Hold 	AEW	EscapeTheHold.jpg	3	0	3	Response				Reverse any Grapple or Submission 
+Shove Off	AEW	ShoveOff.jpg	3	0	3	Response				Reverse any Strike or Grapple
+Slip Away	AEW	SlipAway.jpg	3	0	3	Response				Reverse any Strike or Submission 
+Bow To Your Sensei	AEW	BowToYourSensei.jpg	5	0	3	Response			Mike Bailey	Reverse any maneuver. Enters - You may put a Kick from your Discard beneath your draw deck. 
+Goodbye And Good Night... 	AEW	GoodbyeAndGoodNight.jpg	5	0	5	Response			Kenny Omega 	Reverse any Card. Enters - You may discard a card. If you do gain 2 Stamina and draw two cards. 
+Swerve's House	AEW	SwervesHouse.jpg	5	0	5	Response			Swerve Strickland	Reverse any Card.  Enters - Look at the top three cards of your Draw Deck you may discard any of them. Put the rest back on top of your Draw Deck in any order. 
+Unscripted Violence	AEW	UnscriptedViolence.jpg	5	0	3	Response			Jon Moxley 	Reverse any maneuver. Enters - Reveal your hand to your opponent and they choose a maneuver from it. Play that maneuver, it can't be reversed but deals half damage (round up). 
+Thumbs Down 	AEW	ThumbsDown.jpg	6	3	3	Response			Bobby Lashley 	Power Attack. Reverse any maneuver. 
+And Watch for the Shoe	AEW	AndWatchForTheShoe.jpg	7	0	5	Response			Toni Storm	Reverse any maneuver. Ongoing - Your Action cards are +1D
+Had It Scouted	AEW	HadItScouted.jpg	8	0	2	Response				Reverse any Maneuver.
+Chop	AEW	Chop.jpg	0	1	1	Strike	T	Chop		Enters - Scout
+European Uppercut	AEW	EuropeanUppercut.jpg	0	5	3	Strike	T			
+Front Kick	AEW	FrontKick.jpg	0	4	4	Strike	T	Kick		
+Jab	AEW	Jab.jpg	0	2	3	Strike	H	Punch		Enters - You may play a strike from your discard by paying for it. Free if a Punch.
+Kick	AEW	Kick.jpg	0	2	2	Strike	T	Kick		
+Overhand Punch	AEW	OverhandPunch.jpg	0	3	6	Strike	H	Punch		
+Slap	AEW	Slap.jpg	0	1	1	Strike	H			Permanent. Enters - Draw a card.
+Mounted Punches	AEW	MountedPunches.jpg	1	2	3	Strike	H	Punch		Permanent. Follow-Up - Power Attack.
+Running Clothesline	AEW	RunningClothesline.jpg	1	5	5	Strike	T	Lariat		
+Spinning Back Elbow	AEW	SpinningBackElbow.jpg	1	6	6	Strike	H			
+Haymaker	AEW	Haymaker.jpg	2	5	3	Strike	H	Punch		Power Attack
+Opening Jab	AEW	OpeningJab.jpg	2	3*	3	Strike	H	Punch		*If this is your first maneuver this turn, this is +3D.
+Roundhouse to the Arm	AEW	RoundhouseToTheArm.jpg	4	8	8	Strike	A	Kick		
+Short-Arm Clothesline	AEW	ShortArmClothesline.jpg	4	7	7	Strike	A	Lariat		Permanent
+Shoulder Block	AEW	ShoulderBlock.jpg	4	8	8	Strike	T			
+Work the Body	AEW	WorkTheBody.jpg	4	7	7	Strike	T	Punch		Permanent
+Leg Kick	AEW	LegKick.jpg	5	8	6	Strike	L	Kick		
+Roundhouse Kick	AEW	RoundhouseKick.jpg	5	10	8	Strike	H	Kick		
+Superkick	AEW	Superkick.jpg	5	7	7	Strike	H	Kick		Enters - Opponent discards a card.
+Crippling Chop Block	AEW	CripplingChopBlock.jpg	6	8	6	Strike	L			Permanent
+Discuss Punch	AEW	DiscussPunch.jpg	6	10	10	Strike	H	Punch		
+Missile Dropkick	AEW	MissileDropkick.jpg	6	5	8	Strike	T	High Risk, Kick		Enters - Opponent discards a card. Follow-Up - +5D.
+Solbut	AEW	Solbut.jpg	6	6	4	Strike	T	Kick		Permanent. 
+Spinning Back Fist	AEW	SpinningBackFist.jpg	6	8*	12	Strike	H			*+2D for each maneuver in your ring with T: H
+Torkneedo	AEW	Torkneedo.jpg	7	10	10	Strike	H	High Risk		Enters - Opponent discards a card and you may draw a card. 
+Clothesline	AEW	Clothesline.jpg	8	8	4	Strike	T	Lariat		Power Attack. Enters - Opponent discards a card.
+Pounce	AEW	Pounce.jpg	10	14	10	Strike	T			
+Top-Rope Splash	AEW	TopRopeSplash.jpg	10	10	10	Strike	T	High Risk		Power Attack 
+Ultima Weapon	AEW	UltimaWeapon.jpg	12	15	15	Strike		High Risk	Mike Bailey	Finisher.  Enters - You may put any number of Kicks from your discard pile beneath your draw deck. 
+V-Trigger	AEW	VTrigger.jpg	12	10	13	Strike	H		Kenny Omega	Kenny Omega - -4 Cost, Follow-Up - Enters - Opponent discards a card.
+House Call	AEW	HouseCall.jpg	15	10	15	Strike	H	Kick	Swerve Strickland	Finisher. Enters - Opponent Tucks a card from their hand. 
+Armbar	AEW	Armbar.jpg	0	3	3	Submission	A			Ongoing - Opponent's Hold is -1.
+Front Chancery	AEW	FrontChancery.jpg	0	3	3	Submission	H			Ongoing -Your Hand is +1. Enters - Gain 2 Stamina. 
+Hammerlock	AEW	Hammerlock.jpg	0	3	3	Submission	A			Enters - Gain 2 Stamina. Ongoing - Opponent's Punches are -1D.
+Overhand Wrist Lock	AEW	OverhandWristLock.jpg	0	3	3	Submission	A			
+Side Headlock	AEW	SideHeadlock.jpg	0	1	3	Submission	H			Permanent
+Wrist Lock	AEW	WristLock.jpg	0	2	3	Submission	A			Permanent
+Grounded Body Scissors	AEW	GroundedBodyScissors.jpg	1	3	3	Submission	T			Ongoing - Non-Maneuver cards in Opponent's Market are +2C.
+Grounded Hammer Lock	AEW	GroundedHammerLock.jpg	1	3	3	Submission	A			Ongoing - Choose a card in Opponent's Market. They can't purchase or play that card. (You may pick Kit cards) 
+Grounded Headlock	AEW	GroundedHeadlock.jpg	1	3	3	Submission	H			Ongoing - Choose a Non-Signature card in Opponent's Ring. That card loses all abilities except Permanent. It has 0M.
+Knee Bar	AEW	KneeBar.jpg	1	5	3	Submission	L			Permanent. Enters - Gain 2 Stamina
+Showoff Lock	AEW	ShowoffLock.jpg	1	1	1	Submission	-			Enters - Choose one: Attempt to Draw Heat or Attempt to Get a Pop. 
+Kneelock	AEW	Kneelock.jpg	2	3	6	Submission	L			
+Standing Arm Lock	AEW	StandingArmLock.jpg	2	4	2	Submission	A			Ongoing - Opponent's Grapples are +1C.
+Standing Leg Lock	AEW	StandingLegLock.jpg	2	4	2	Submission	L			Ongoing - Opponent's Strikes are +1C.
+Standing Waist Lock	AEW	StandingWaistLock.jpg	2	4	2	Submission	T			Ongoing - Opponent's Submissions are +1C.
+Sleeper	AEW	Sleeper.jpg	3	6	6	Submission	H			Enters - Stun opponent. That card loses Permanent this turn.
+Ankle Hook	AEW	AnkleHook.jpg	4	3	6	Submission	L			Focus Attack. Ongoing - Opponent's Kicks are -2D
+Fujiwara Armbar	AEW	FujiwaraArmbar.jpg	5	6	6	Submission	A			Ongoing - Your opponents Strikes are Cost +1.
+Arm Wringer 	AEW	ArmWringer.jpg	6	6	6	Submission	A			Ongoing - Your maneuvers with T:A are +2D.
+Bear Hug	AEW	BearHug.jpg	6	6	6	Submission	T			Ongoing - Your maneuvers with T:T are +2D.
+Neck Wringer	AEW	NeckWringer.jpg	6	6	6	Submission	T			Ongoing - Your maneuvers with T:H are +2D.
+Stump Puller	AEW	StumpPuller.jpg	6	6	6	Submission	L			Ongoing - Your maneuvers with T:L are +2D.
+Key Lock	AEW	KeyLock.jpg	8	4	4	Submission	A			Ongoing - Choose a card in opponent's market. They can't purchase that card. 
+Single Leg Crab	AEW	SingleLegCrab.jpg	8	7	7	Submission	L			Ongoing - Opponent's market is -1.
+Bulldog Choke	AEW	BulldogChoke.jpg	10	10	10	Submission	H			Ongoing - Opponent's Hand is -1. Jon Moxley - Damage +3.
+Figure Four Leg Lock	AEW	FigureFourLegLock.jpg	16	12	12	Submission	L			
+The Hurt Lock	AEW	TheHurtLock.jpg	18	12	12	Submission	H		Bobby Lashley	Finisher, Focus Attack 
+Bobby Lashley	AEW	BobbyLashleyWrestler.jpg	N/a	N/a	5	Wrestler			Bobby Lashley	Tie-Up Action - Commit : Play a maneuver from your hand. It gains "Enters - Draw two cards." 
+Jon Moxley	AEW	JonMoxleyWrestler.jpg	N/a	N/a	5	Wrestler			Jon Moxley 	Tie-Up Action - Commit : play a maneuver from your hand, it is +5D.
+Kenny Omega	AEW	KennyOmegaWrestler.jpg	N/a	N/a	5	Wrestler			Kenny Omega	Ready Action - Commit : Discard a card then draw two cards. 
+Mike Bailey	AEW	MikeBaileyWrestler.jpg	N/A	N/A	3	Wrestler			Mike Bailey	Tie-Up Action - Commit : Attempt to Kick opponent, it gains Permanent this turn. 
+Swerve Strickland	AEW	SwerveStricklandWrestler.jpg	N/a	N/a	5	Wrestler			Swerve Strickland	Recovery Action - Commit : put a card from your discard pile under your draw deck. 
+Toni Storm	AEW	ToniStormWrestler.jpg	N/a	N/a	5	Wrestler			Toni Storm 	Recovery Action - Commit : Put up to two action cards from you discard benath your draw deck.
+Adam Copeland	AEW	AdamCopelandWrestler.jpg	N/A	N/A	4	Wrestler			Adam Copeland	You may have an additional copy of cards in your draw and purchase decks.
+Adam Page	AEW	AdamPageWrestler.jpg	N/A	N/A	4	Wrestler			Adam Page	Trigger - When your opponent hits with two consecutive maneuvers Scout and Attempt to Get a Pop. 
+Angelo Parker	AEW	AngeloParkerManager.jpg	N/A	N/A	3	Manager			Angelo Parker, Ruby Soho	Ruby Soho - Your Starting Hand is +1 (this does not effect your hands after your opening hand).  Action - Commit : Choose two cards in your Market. Purchase one, Tuck the other, then refill your Market (you must pay for the card you purchased). 
+Angelo Parker	AEW	AngeloParkerWrestler.jpg	N/A	N/A	4	Wrestler			Angelo Parker	Ongoing - When you purchase a card you may also Tuck a card from your Market and replace it
+Anger the Crowd	AEW	AngerTheCrowd.jpg	1	0	5	Action				Special - +3M outside the Recovery Phase. 
+Ankle Lock	AEW	AnkleLock.jpg	0	2	2	Submission	L			Focus Attack 
+Anthony Bowens	AEW	AnthonyBowens.jpg	N/A	N/A	5	Wrestler			Anthony Bowens	Tie-Up Action - Commit and discard a card : Play a maneuver from your hand, any Enters abilities on that card trigger an additional time 
+Anthony Ogogo	AEW	AnthonyOgogoManager.jpg	N/A	N/A	3	Manager		Boxer	Anthony Ogogo	Ongoing - During your Recovery Phase your Punches are -1C. 
+Anthony Ogogo	AEW	AnthonyOgogoWrestler.jpg	N/A	N/A	3	Wrestler		Boxer	Anthony Ogogo	Your Punches are -1C.
+Arm Breaker	AEW	ArmBreaker.jpg	8	6	6	Grapple	A			Relentless
+Arm Scissor	AEW	ArmScissor.jpg	2	4	4	Submission	A			Ongoing - Opponent's maneuvers played from outside their hand deal half damage (round up)
+Arm Wringer	AEW	ArmWringer.jpg	3	5	7	Submission	A			Enters - You may pay 5M. If you do, draw a card and gain 3 Stamina. 
+Backhand Chop	AEW	BackhandChop.jpg	1	3	2	Strike	T	Chop		Sudden, Combo Attack
+Baddest Hands on the Planet 	AEW	BaddestHandsOnThePlanet.jpg	0	0	0	Boon				Permanent. Ongoing - Your Punches are +1D/+1M.
+Baddest Plan on the Planet 	AEW	BaddestPlanOnThePlanet.jpg	5	0	4	Action		Punch	Mike Tyson	Ongoing - Your gain Punches "Enters - Stun opponent then Scout". Enters - Create a Baddest Hands on the Planet Token in your Ring. 
+Baddest Uppercut on the Planet	AEW	BaddestUppercutOnThePlanet.jpg	20	16	16	Strike	H	Punch	Mike Tyson	Finisher. Enters - If your Uncommited momentum from only other Punches is higher than your opponent's stamina, you win the game via Knockout. 
+Beast 	AEW	Beast.jpg	0	0	3	Boon				Ongoing - Your maneuvers are +1D
+Bell Ringer	AEW	BellRinger.jpg	0	0	0	Injury				Ongoing - Your Market is -1.
+Beth Copeland	AEW	BethCopelandManager.jpg	N/A	N/A	3	Manager			Beth Copeland	Ongoing - Cards in your Market have Sudden if there is a copy of that card in your ring. 
+Big Stoke	AEW	BigStokeManager.jpg	N/A	N/A	3	Manager			Stokely Hathaway	Ongoing - Your Market is +1.
+Bitch	AEW	Bitch.jpg	8	0	4	Response			Kazuchika Okada	Reverse any card. Special - If this would be put into your Discard from anywhere, shuffle it into your draw deck instead. 
+Bite the Ear	AEW	BiteTheEar.jpg	6	2	3	Response		Punch	Mike Tyson	Reverse any maneuver. Ongoing - Your Punches are +2D. 
+Blackpool Combat Club 	AEW	BlackpoolCombatClub.jpg	N/A	N/A	3	Faction			Blackpool Combat Club	Flip - Play a maneuver from your discard. It gains +3D and Permanent this turn.
+Blinded	AEW	Blinded.jpg	0	0	0	Injury				Ongoing - Your Hand is -1.
+Blindsided Punch	AEW	BlindsidedPunch.jpg	0	3	3	Strike	H	Punch		Hidden.  Turned - Stun opponent 
+Blown Spot	AEW	BlownSpot.jpg	5	0	3	Response				Reverse any maneuver not played from hand. Tuck that card.
+Body Scissors	AEW	BodyScissors.jpg	7	7	7	Submission	T			
+Boston Crab	AEW	BostonCrab.jpg	8	4	4	Submission	T			Trigger - After opponent plays an Action card, Stun them. 
+Brain Fog	AEW	BrainFog.jpg	X	0	0	Injury				Nothing
+Break Concentration 	AEW	BreakConcentration.jpg	4	0	3	Response				Reverse any Action or Submission 
+Bridging German Suplex	AEW	BridgingGermanSuplex.jpg	9	5	5	Grapple	T	Suplex		Enters - Try to Pin opponent.   Capitalize - If this was played after Drop Step this is +4M for this Pin. 
+BTE	AEW	BTE.jpg	4	0	2	Action			The Elite	Enters - Put a card from your discard beneath your draw or purchase deck. Then draw two cards and gain 2 Stamina. 
+Buckshot Lariat	AEW	BuckshotLariat.jpg	10	12	12	Strike			Adam Page	Finisher. Follow-Up - Has Sudden and Relentless. 
+By God 	AEW	ByGod.jpg	N/A	N/A	1	Call Name			By God, Don Callis 	Your Starting Draw deck may include up to 3 cost of any cards. Don Callis - You may also include one copy of Will of the Invisible Hand. 
+Cash Cannons	AEW	CashCannons.jpg	3	0	2	Action				Enters - Market two cards
+Catch the Ropes	AEW	CatchTheRopes.jpg	3	0	2	Response				Rope Break. Reverse any Strike, High Risk, Suplex, or Set-Up
+Charging Lariat 	AEW	ChargingLariat.jpg	0	2	3	Strike	T	Lariat		Power Attack 
+Chinlock	AEW	Chinlock.jpg	4	6	6	Submission	H			Ongoing - To play Action cards opponent must either pay for them or Discard a card. 
+Christian Cage	AEW	ChristianCageManager.jpg	N/A	N/A	4	Manager			Christian Cage	Ongoing - Your cards played from outside your hand are +1D (this affects Tokens being Attempted)
+Coffin Splash	AEW	CoffinSplash.jpg	4	10	10	Strike	T	High Risk		Risky 3. Darby Allin - This does not have Risky. 
+Compassionate	AEW	Compassionate.jpg	4	0		Action				Enters - Each player puts a card from their Ring into their discard, they also Tuck a card from their Market, refill each players Market. 
+Courageous	AEW	Courageous.jpg	6	0	4	Action				Resilient, Relentless. Enters - You may look at the top three cards of your Draw Deck. Tuck one, discard one, put one in your hand.   Patriarch Trigger - When discarded, Scout.
+Cowboy Shit	AEW	CowboyShit.jpg	4	0	2	Response			Adam Page	Permanent. Reverse any maneuver. Response - Commit and discard a card to reduce the damage of the played maneuver by the discarded Momentum, this loses Permanent. 
+Crane Kick	AEW	CraneKick.jpg	4	6	6	Strike	H	Kick		Combo Attack
+Create-a-Wrestler	AEW	CreateAWrestlerWrestler.jpg	N/A	N/A	3	Wrestler			Create a Wrestler 	For your Kit choose one non-Kit Maneuver, Action, and Response. Those gain your logo, the maneuver gains Finisher. You can not include additional copies of those cards.
+Cross Arm Breaker	AEW	CrossArmBreaker.jpg	12	8	8	Submission	A			Enters - Try to Submit Opponent. 
+Cross Punch	AEW	CrossPunch.jpg	0	2	2	Strike	H	Punch		Combo Attack
+Crossface Chicken Wing	AEW	CrossfaceChickenWing.jpg	2	6	6	Submission	-			Targets both Head and Arm (this card is considered to have no text as the Target icon would just have both targets) 
+Crowd Favorite	AEW	CrowdFavorite.jpg	4	0	0	Action				Permanent. Action - Commit and choose one: -Gain 1 Stamina, then you may Cycle a card. OR -Attempt to Get a Pop, this loses Permanent.
+Cunning Striker 	AEW	CunningStriker.jpg	6	0	2	Action				Tie-Up Enters - Play a Strike from hand or discard. If played from hand it gains Cunning Attack
+Cut the Angle	AEW	CutTheAngle.jpg	4	0	3	Response				Reverse any Action or Grapple
+Daddy Magic	AEW	DaddyMagic.jpg	N/A	N/A	2	Call Name			Daddy Magic	Ongoing - Your Market is +1 if it contains an Action card
+Deadeye 	AEW	Deadeye.jpg	9	6	6	Grapple				Enters - Play a maneuver with T:T from your discard by paying for it. Hangman - Only need to pay half. Adam Page - It gains Power Attack. 
+Destination Unknown	AEW	DestinationUnknown.jpg	16	10	10	Strike	H		Ruby Soho	This is +1D for each token in your ring.  Finisher.   Ongoing - Your Tokens have Permanent. 
+Devoted	AEW	Devoted.jpg	1	0	2	Action				Relentless. Enters - Discard the bottom card of your Draw deck then Scout. 
+Disarmer	AEW	Disarmer.jpg	5	0	2	Action				Permanent. Ongoing - Your maneuvers with T:A are +1D.
+Don Callis Family 	AEW	DonCallisFamily.jpg	N/A	N/A	3	Faction			Don Callis Family, Don Callis 	Flip - Choose up to three cards from your discard. Tuck one, put one beneath your draw deck, put one in your hand. Don Callis - Pick a fourth card, and any of the three modes. 
+Double Hand Chop	AEW	DoubleHandChop.jpg	1	2	3	Strike	T	Chop		Relentless, Focus Attack 
+Double Leg Takedown	AEW	DoubleLegTakedown.jpg	5	3	3	Grapple	L	Set-up		Relentless. Enters - You may discard a card. If you do, you may play a maneuver from your discard. If that card is reversed, put it beneath your draw deck. 
+Educated Feet 	AEW	EducatedFeet.jpg	6	0	3	Action				Ongoing - Your Kicks are +2D. Tie-Up Enters - Give a Kick in your Market Sudden this turn, if you can't draw a card. Recovery Enters - Put up to two Kicks from your discard beneath your draw deck then gain 1 Stamina for each Kick in your ring.
+Elevated	AEW	Elevated.jpg	5	0	3	Action			Will Ospreay	Hidden  Enters - You may look at the top four cards of your Purchase Deck and Tuck any of them. Put the rest back in any order.  Turned - Play the top card of your Purchase Deck face down. If it's reversed, Tuck it. 
+Enough of this Gay Banter	AEW	EnoughOfThisGayBanter.jpg	4	0	2	Response				Reverse any Action. Enters - You may put a non-maneuver card from your discard beneath your Purchase Deck. If you do, gain Stamina equal to it's Momentum. 
+Fake Handshake	AEW	FakeHandshake.jpg	0	1	2	Grapple	A			Cunning Attack 
+Fall-Away Slam	AEW	FallAwaySlam.jpg	5	8	8	Grapple	T	Slam		Enters - If you have a Strike in your ring put up to two cards from your discard beneath your draw deck, if you have a Submission in your ring Stun Opponent then Scout. 
+Father	AEW	Father.jpg	0	0	1	Action				Enters - Look at the top two cards of your Draw deck. Put one in your hand, discard the rest.  The Patriarchy - You may look at an additional card. Christian Cage - You may look at an additional card.  The Patriarch - You may look at an additional card. 
+Fatigue	AEW	Fatigue.jpg	2	0	2	Action				Enters - Put two -1M counters on a non-persona card in Opponent's Ring. If that card has 0M, put it into opponent's discard pile. 
+Feeling Refreshed	AEW	FeelingRefreshed.jpg	1	0	2	Action				Enters - Uncommit a card in your ring and gain 1 Stamina. 
+Feign	AEW	Feign.jpg	6	0	3	Strike	-			Enters - Create a Sucker Punch token in your Market. Ongoing - Punches in your Market have Echo. 
+Fisherman's Suplex 	AEW	FishermansSuplex.jpg	9	7	7	Grapple	T	Suplex		Enters - Choose up to one card from each Market. Tuck those cards. 
+Focused Submissionist 	AEW	FocusedSubmissionist.jpg	6	0	3	Action				Tie-Up Enters - Play a Submission from hand or discard. If played from hand it gains Focus Attack. If reversed being played from discard, put it beneath your draw deck. 
+Forearm Shot	AEW	ForearmShot.jpg	0	3	1	Strike	H			
+Forethought	AEW	Forethought.jpg	0	0	1	Action				Uses 3. Action - Commit and remove a Use Counter: Scout
+Friend of the Shadows	AEW	FriendOfTheShadows.jpg	3	0	1	Action				Hidden. Ongoing - Your face down cards have Permanent 
+Generous	AEW	Generous.jpg	5	0	2	Action				Sudden. Enters - Each player draws three cards and gains 3 Stamina.   The Patriarchy - Has Relentless. 
+Go For a Cheap Pop	AEW	GoForACheapPop.jpg	1	0	0	Action				Uses 4. Special - This is +1M for each Use Counter on it and when this becomes committed for any reason remove a Use Counter. 
+Grit and Determination 	AEW	GritAndDetermination.jpg	10	0	3	Response				Resilient. Reverse any maneuver of 8D or more. Enters - Attempt to Rally The Crowd. 
+Hangman	AEW	Hangman.jpg	N/A	N/A	2	Call Name			Hangman	Your Starting Draw Deck may contain one copy of the card Running Lariat and up to 3 cost of other cards. 
+Headbutt	AEW	Headbutt.jpg	2	4	4	Strike	H			Enters - Create a 4C Brain Fog token in Opponent's Market.   Boxer - This gains the Punch trait. 
+Headhunter	AEW	Headhunter.jpg	5	0	2	Action				Permanent. Ongoing - Your maneuvers with T:H are +1D.
+Hidden Blade	AEW	HiddenBlade.jpg	15	11	11	Strike	H		Will Ospreay	Finisher, Hidden, Stealth Attack. Ongoing - Your cards have Hidden. 
+Hold Onto the Ropes	AEW	HoldOntoTheRopes.jpg	6	0	4	Response				Rope Break, Resilient. Reverse any Submission, or Reverse any maneuver if you pay Momentum equal to its cost. 
+I Am Your Father	AEW	IAmYourFather.jpg	4	0	3	Action			The Patriarchy, Christian Cage	Ongoing - Your maneuvers played from outside your hand have Cunning Attack.  Enters - You may Attempt to Draw Heat.  Christian Cage Enters - Non-Maneuver cards in your Market gain Sudden this turn (this only gives this to cards currently in your Market)
+I Think That Just Made Him Mad	AEW	IThinkThatJustMadeHimMad.jpg	6	0	10	Response				Resilient. This card can not be played. 
+Inspirational	AEW	Inspirational.jpg	10	0	5	Action				Permanent, Resilient. Ongoing - Your Hand is +1.  The Patriarchy - When this is discarded, draw a card. 
+Inspired	AEW	Inspired.jpg	0	0	1	Boon				Ongoing - Your Hand is +1.
+Iron	AEW	Iron.jpg	N/A	N/A	3	Call Name		Boxer	Iron	Your starting draw deck may contain up to 4 cost of Punches and 3 cost of any other cards. 
+Joe is Gonna Kill You	AEW	JoeIsGonnaKillYou.jpg	5	0	2	Action			Samoa Joe 	Ready Enters - Draw two cards. Recovery Enters - You may tuck a  card from your discard. If you do search your Purchase Deck for a card that shares a type with the tucked card and put it in your Market. If you don't, your Hand is +2 this turn. 
+Kazuchika Okada	AEW	KazuchikaOkadaWrestler.jpg	N/A	N/A	8	Wrestler			Kazuchika Okada	None, isn't the Momentum enough? 
+Kenny Omega	AEW	KennyOmegaManager.jpg	N/A	N/A	3	Manager			Kenny Omega	Ready Action - Commit : Tuck a card from your hand draw two cards
+Kick His Fucking Head In 	AEW	KickHisFuckingHeadIn.jpg	13	6	6	Maneuver			Blackpool Combat Club	Finisher, Power Attack, Focus Attack. This has all maneuver types and all Targets.
+Kickboxing Jab Combo	AEW	KickboxingJabCombo.jpg	2	2	2	Strike	H	Punch		Enters - Stun opponent then Attempt to Front Kick them. 
+Knife Edge Chop	AEW	KnifeEdgeChop.jpg	0	3	1	Strike	T	Chop		Relentless, Permanent 
+Lariat	AEW	Lariat.jpg	2	6	6	Strike	T	Lariat		Enters - Stun opponent. 
+Last Supper	AEW	LastSupper.jpg	13	5	5	Grapple	T			Can Reverse any card if it is at least the second card played consecutively. Enters - Try to Pin opponent 
+Lateral Press	AEW	LateralPress.jpg	7	1	2	Grapple	T	Set-up		Enters - Try to Pin opponent 
+Lead Hook	AEW	LeadHook.jpg	0	2	2	Strike	H	Punch		Ongoing - Your Punches are -1C. Iron Enters - This gains Permanent this turn. 
+Learning Moment	AEW	LearningMoment.jpg	5	0	5	Response				Resilient, Relentless Reverse any maneuver of 4C or less. Special - Can't be played from hand and if this would be put into your Discard from your Ring, put it beneath your draw deck instead. 
+Lights Out	AEW	LightsOut.jpg	12	0	2	Action				Ongoing - Your Punches have Sudden and +2M.
+Locked Out 	AEW	LockedOut.jpg	3	0	2	Action				Ongoing - Choose a card in opponent's market. They can't purchase that card. 
+Loved	AEW	Loved.jpg	7	0	2	Action				Relentless. Enters - Opponent Commits a card in their ring and tucks a card from their discard.  Christian Cage - Gain Stamina equal to the Momentum of the committed card.  Patriarch - You may Purchase a card with cost equal to or less than the Momentum of the Tucked card. 
+Low Effort Kick	AEW	LowEffortKick.jpg	2(Sloth)	2	6	Strike	L			Enters - Opponent discards a card.  Staggered - They discard two instead. 
+Maintain Hold	AEW	MaintainHold.jpg	7	0	2	Action				Follow-Up - Enters - When played after a Submission Choose one: Attempt the Submission this followed or Try to Submit Opponent using the Followed Submission
+Man Can't Breath Can't Fight	AEW	ManCantBreathCantFight.jpg	5	0	2	Action				Permanent. Ongoing - Your maneuvers with T:T are +1D.
+Man Can't Stand, Can't Fight	AEW	ManCantStandCantFight.jpg	5	0	2	Action				Permanent. Ongoing - Your maneuvers with T:L are +1D.
+Maximum Effort 	AEW	MaximumEffort.jpg	4	0	3	Action				Enters - Play a maneuver from hand. It's Enters abilities trigger an additional time.
+Maxwell Jacob Friedman	AEW	MaxwellJacobFriedmanWrestler.jpg	N/A	N/A	4	Wrestler			MJF	Ongoing - Your Hand is +1.
+Mike Tyson	AEW	MikeTysonManager.jpg	N/A	N/A	3	Manager		Boxer	Mike Tyson	Tie-Up Action - Attempt to Punch opponent, it gains "Enters - Stun opponent then Scout"
+Mike Tyson	AEW	MikeTysonWrestler.jpg	N/A	N/A	5	Wrestler		Boxer	Mike Tyson	Tie-Up Action - Commit: Play a Punch with cost 5 or less from your Hand, Market, or Discard. It gets +2D and "Enters - Stun opponent then Scout".
+Mongolian Chop	AEW	MongolianChop.jpg	2	4	4	Strike		Chop		Sudden, Relentless
+Muscle Buster	AEW	MuscleBuster.jpg	20*	14	14	Grapple	H		Samoa Joe 	*Costs half when played from a location other than your hand (like from being granted Sudden or Relentless, or any other effect that tells you to play by paying) 
+Nope	AEW	Nope.jpg	5	0	4	Response			Samoa Joe 	Reverse any maneuver or action. Ignore any additional costs to play this reversal (this ignores Finisher and any Toll, etc...) 
+Ogogo Reversal	AEW	OgogoReversal.jpg	5	2	3	Response			Anthony Ogogo	Reverse any maneuver. Enters - You may play a Punch from your Discard or Market with cost less than our equal to the cost of the reversed card. 
+Olympic Bronze Boxer	AEW	OlympicBronzeBoxer.jpg	8	0	4	Action			Anthony Ogogo	Ongoing - Your Punches have Sudden. 
+Open Hand Chop	AEW	OpenHandChop.jpg	0	2	2	Strike	T	Chop		Relentless. Enters - Stun opponent. 
+Orange Cassidy	AEW	OrangeCassidyWrestler.jpg	N/A	N/A	4/6	Wrestler			Orange Cassidy	Front: (Sloth) Ready Action - Commit: Reveal cards from your draw deck until you reveal a (Sloth) card, put it into your hand. Discard the rest, if none are found just shuffle your draw deck. // Staggered: Flip // Back: (Sloth) Ongoing - Your maneuvers are +1D for each (Sloth) card in your ring. 
+Patriarch	AEW	Patriarch.jpg	N/A	N/A		Call Name			Patriarch	Your Starting deck may contain one copy of the following cards: Devoted, Sacrificing, Respected, and Compassionate. 
+Payback Chop	AEW	PaybackChop.jpg	0	2	3	Strike	T			Retaliate - +3D
+Persistent Chop	AEW	PersistentChop.jpg	2	3	3	Strike	T	Chop		Resilient, Relentless 
+Powerbomb	AEW	Powerbomb.jpg	9	10	10	Grapple	T	Slam		Enters - Create a Winded token in your opponent's ring and a Beast token in your ring. Choose one of those to gain Permanent this turn.
+Powerful Grappler	AEW	PowerfulGrappler.jpg	6	0	3	Action				Tie-Up Enters - Play a Grapple from hand or discard. If played from hand it gains Power Attack. If reversed being played from discard, put it beneath your draw deck. 
+Powerhouse	AEW	Powerhouse.jpg	N/A	N/A	3	Call Name			Powerhouse	Your maneuvers with no printed abilities are -2C. 
+Punch	AEW	Punch.jpg	0	1	3	Strike	H	Punch		
+Rainmaker	AEW	Rainmaker.jpg	16	12	12	Strike	H	Lariat	Kazuchika Okada 	Enters - You may shuffle your Discard, Market, and Purchase Deck into your Draw Deck. If you don't, your Hand, Hold, and Market are all +2 this turn. 
+Rainmaker Pose	AEW	RainmakerPose.jpg	8	0	3	Action			Kazuchika Okada 	Enters - Pay X Momentum to look at the top X cards of your Draw Deck, you may Tuck any number of those cards.  Special - If this would be put into your Discard from anywhere shuffle it into your Draw Deck instead. 
+Rally the Crowd 	AEW	RallyTheCrowd.jpg	1	0	2	Action				Permanent, Sturdy
+Ready Up	AEW	ReadyUp.jpg	1	0	2	Action				Sudden. Enters - Uncommit a card
+Rear Hook	AEW	RearHook.jpg	1	3	4	Strike	H	Punch		Combo Attack
+Rear Naked Choke	AEW	RearNakedChoke.jpg	12	8	8	Submission	H			Enters - Try to Submit Opponent 
+Repeated Disrespect	AEW	RepeatedDisrespect.jpg	2	2	2	Strike	H			Hidden. Turned - Put a charge counter on this, turn it face down again. This gains Permanent this turn.  Special - This is +1C/+1D for each counter on this. 
+Repose	AEW	Repose.jpg	5	0	3	Response				Hidden. Reverse any Strike. If played from Ring, reverse any maneuver
+Respected	AEW	Respected.jpg	3	0		Action				Ongoing - Your cards played from outside your hand gain Pressing
+Ripcord	AEW	Ripcord.jpg	4	0	2	Grapple		Set-up		Enters - Choose one: Play a maneuver from your Market by paying for it. If it's reversed, Tuck it. OR Attempt to Lariat opponent 
+Roll Up	AEW	RollUp.jpg	9	2	3	Grapple	T			Follow-Up - Try to Pin opponent
+Ruby Soho	AEW	RubySohoManager.jpg	N/A	N/A	3	Manager			Ruby Soho, Angelo Parker	Angelo Parker - Your Starting Hand is +1 (this does not effect your hands after your opening hand). Action - Commit : Attempt to Get a Pop, it gains "Enters - Choose one : Gain 2 Stamina or Scout."
+Ruby Soho	AEW	RubySohoWrestler.jpg	N/A	N/A	4	Wrestler			Ruby Soho	Action - Commit : Attempt to Get a Pop, it gains "Enters - Gain 2 Stamina and Scout".  Ongoing - Your Tokens are +1M.
+Running Boot	AEW	RunningBoot.jpg	4	9	9	Strike	H	High Risk, Kick		
+Running Lariat	AEW	RunningLariat.jpg	4	5	5	Strike	T			Enters - Stun opponent. Hangman Enters - Scout
+Sacrificing	AEW	Sacrificing.jpg	2	0	3	Action				Enters - Put a card from your ring into your Discard. Each player loses Stamina equal to its Momentum, you may also Tuck cards from your discard equal to its cost. 
+Samoa Joe	AEW	SamoaJoeWrestler.jpg	N/A	N/A	5	Wrestler			Samoa Joe 	Tie-Up Action - Commit and discard a card : Give a card in your Market Sudden this turn. 
+Samoan Drop	AEW	SamoanDrop.jpg	3	6	6	Grapple	T			This is +1D for each maneuver type in your ring (Strike, Grapple, Submission) 
+Samoan Submission Machine	AEW	SamoanSubmissionMachine.jpg	N/A	N/A	2	Call Name			Samoan Submission Machine	Your Starting Draw Deck may include one copy of the card Sleeper and up to 3 cost worth of other cards. 
+School Boy	AEW	SchoolBoy.jpg	11	3	3	Grapple	T			Can Reverse any maneuver with an Enters ability. Enters - Try to Pin opponent. 
+Scorpion Deathlock	AEW	ScorpionDeathlock.jpg	10	10	10	Submission	L			Focus Attack
+Seize the Initiative	AEW	SeizeTheInitiative.jpg	4	0	3	Response				Reverse any Action or Strike
+Selfless	AEW	Selfless.jpg	8	0	4	Action				Ongoing - Opponent's Hand, Hold, and Market are all +1.  Enters - Draw three cards and gain 3 Stamina. 
+Shake It Off 	AEW	ShakeItOff.jpg	2	0	2	Action				Ongoing - Choose a card in opponent's ring. That card loses all abilities. 
+Shoulder Capture Suplex	AEW	ShoulderCaptureSuplex.jpg	8	6	4	Grapple		Suplex		Can Reverse any Kick
+Shut the Fuck Up	AEW	ShutTheFuckUp.jpg	3	0	2	Response				Permanent, Relentless. Reverse any Action. 
+Side Kick	AEW	SideKick.jpg	2	6	6	Strike	T	Kick		
+Skilled Boxer	AEW	SkilledBoxer.jpg	3	0	2	Action				Enters - You may purchase a Punch from your Market.  Ongoing - Your Punches are -1C. 
+Slip 	AEW	Slip.jpg	2	0	3	Response				Reverse any Strike. If it is a Punch, Lariat, or Kick, draw a card
+Snap Dragon Suplex	AEW	SnapDragonSuplex.jpg	6	6	6	Grapple	H	Suplex		Sudden. Kenny Omega - Cost -2.
+Snap Leg Kick	AEW	SnapLegKick.jpg	0	3	2	Strike	L	Kick		Ongoing - Your Kicks are -1C. Speedball Enters - This gains Permanent this turn. 
+Sniper	AEW	Sniper.jpg	1	0	3	Action				Enters - Choose a Strike in your discard pile. If this is the Tie-Up phase and it has T:H you may play that card. Otherwise put it beneath your draw deck and draw a card. 
+Speedball	AEW	Speedball.jpg	N/A	N/A	3	Call Name			Speedball	Your Starting Draw Deck may contain up to 4 cost of Kicks, and 3 cost of other cards
+Spit at Opponent 	AEW	SpitAtOpponent.jpg	4	0	2	Action				Cycling. Ready Enters - Opponent chooses one: Discard a Response or pay 4M and lose 4 Stamina
+Spray Mist	AEW	SprayMist.jpg	4	0	3	Action				Hidden  Enters - Opponent discards a card.  Turned - Create a Blinded token in Opponent's Ring.
+Steal the Mic	AEW	StealTheMic.jpg	2	0	1	Response				Sudden. Reverse any Action. Enters - Attempt to Anger the Crowd 
+Sting	AEW	StingManager.jpg	N/A	N/A	3	Manager			Sting	Response - Commit, Pay 2M, and discard a card: Reduce the damage of a opponent's maneuver by the discarded Momentum.
+Study the Tapes 	AEW	StudyTheTapes.jpg	3	0	2	Action				Permanent. Enters - Search your Purchase Deck for a Reversal card and put it in your Market. 
+Stuff	AEW	Stuff.jpg	2	0	3	Response				Reverse any Grapple. If it's a Slam, Suplex, or Takedown draw a card
+Styles Clash 	AEW	StylesClash.jpg	12	6	10	Grapple	T			Resilient 
+Sucker Punch 	AEW	SuckerPunch.jpg	4	4	4	Strike	H	Punch		Sudden, Focus Attack
+Sunglasses	AEW	Sunglasses.jpg	6(Sloth2)	0	4	Action		Item		(Sloth) Ready Enters - Draw three cards then discard a card.   Staggered - Your (Sloth) cards have Relentless. 
+Suplex	AEW	Suplex.jpg	0	4	3	Grapple	T	Suplex		
+Sweep	AEW	Sweep.jpg	4	2	3	Strike	L	Kick, Set-up		Enters - Play a High Risk from your discard by paying for it.   Capitalize - The High Risk may come from your Market. 
+Swift Chop	AEW	SwiftChop.jpg	1	3	3	Strike	T	Chop		Sudden. Special - When this enters your Market it gains Echo this turn
+T-Bone Suplex	AEW	TBoneSuplex.jpg	8	6	4	Grapple		Suplex		Can Reverse any Punch
+Taekwondo Head Kick	AEW	TaekwondoHeadKick.jpg	5	4	4	Strike	H	Kick		Sudden, Permanent
+Tarantula	AEW	Tarantula.jpg	2	5	5	Submission	-			Illegal, Rope Break, Resilient
+Taz	AEW	TazWrestler.jpg	N/A	N/A	5	Wrestler			Taz	Tie-Up Action - Commit: Attempt to Suplex opponent. 
+The 'Ol One-Two	AEW	TheOlOneTwo.jpg	3	5	5	Strike	H	Punch		Anthony Ogogo - -1C. Enters - Play a Punch from your Hand or Discard, if it costs 3 or less, it gains Combo Attack. 
+The Baddest Man on the Planet	AEW	TheBaddestManOnThePlanet.jpg	N/A	N/A	2	Call Name		Boxer	Baddest Man on the Planet	Ongoing - Your Punches are +1M.  Your Starting Draw Deck may contain up to 3C of Punches. 
+The Conglomeration	AEW	TheConglomeration.jpg	N/A	N/A	3	Faction			The Conglomeration	Flip - Pay XM. If X is 1 or more, draw a card. 3 or more gain 3 Stamina. If 5 or more you may Tuck any number of cards from your Market, refill your Market. If 7 or more put any number of cards from your discard beneath your draw deck and tuck any number of them. 
+The Elite	AEW	TheElite.jpg	N/A	N/A	2	Faction			The Elite	Flip - Draw three cards. 
+The Gov'na	AEW	TheGovna.jpg	N/A	N/A	2	Call Name		Boxer	The Gov'na	Ongoing - Your Punches are -1C.
+The Patriarchy	AEW	ThePatriarchy.jpg	N/A	N/A	4	Faction			The Patriarchy	Flip - Choose a card in your Market to gain Sudden this turn, a card in your discard to gain Relentless this turn, Scout, then you may Attempt to Draw Heat. Christian Cage - You may pick an additional card from both your Market and Discard. 
+The Rainmaker	AEW	TheRainmaker.jpg	N/A	N/A	6	Call Name			The Rainmaker	None, isn't the Momentum enough? 
+The Rated-R Superstar	AEW	TheRatedRSuperstar.jpg	N/A	N/A	3	Call Name			The Rated-R Superstar	Your Starting Draw Deck may contain an additional copy of three 0C cards, and may contain up to 4 total cost in cards. 
+The Young Bucks 	AEW	TheYoungBucksWrestler.jpg	N/A	N/A	4	Wrestler		Tag Team	The Young Bucks 	Ongoing - Your Market is +1.
+Throw Money Around	AEW	ThrowMoneyAround.jpg	0	0	1	Action				Enters - Purchase a card, refill your Market. 
+Timeless	AEW	Timeless.jpg	N/A	N/A	1	Call Name			Timeless	Your Starting Draw Deck may include up to 3 cost worth of Actions and 2 cost of any cards.
+Torture Rack 	AEW	TortureRack.jpg	12	8	8	Submission	T			Ongoing - Opponent's Market is -2.
+Trick Punch	AEW	TrickPunch.jpg	2	4	4	Strike	H	Punch		Has Echo and Sudden while you have A Punch in your ring
+Until They Get Punched in the Face	AEW	UntilTheyGetPunchedInTheFace.jpg	8	1	3	Response		Punch		Reverse any Action. Special - You may Commit a Punch as an additional cost, if you do Reverse any card instead. Mike Tyson - Combo Attack
+Vacant	AEW	VacantWrestler.jpg	N/A	N/A	3	Wrestler			Vacant	For your Kit choose one maneuver, one action, and one response regardless of wrestler logo. Those cards now have your logo. 
+Versatile Striker	AEW	VersatileStriker.jpg	4	0	2	Action				Enters - Reveal cards from the top of your Draw Deck until you reveal a Strike, play that card. If you have a Grapple in your ring it gets +3D, if you have a Submission in your ring it gains "Enters - Stun opponent then Scout." 
+Vertical Suplex	AEW	VerticalSuplex.jpg	6	6	6	Grapple	T	Suplex		Can Reverse any Suplex. 
+Wild Thing	AEW	WildThing.jpg	N/A	N/A	1	Call Name			Wild Thing	Your Starting Draw Deck may include up to 3 cost worth of Maneuvers and 2 cost of any cards.
+Will Hobbs	AEW	WillHobbsWrestler.jpg	N/A	N/A	4	Wrestler			Will Hobbs	Ongoing - Your maneuvers with no printed abilities gain 'Enters - Scout'. 
+Will Ospreay	AEW	WillOspreayWrestler.jpg	N/A	N/A	5	Wrestler			Will Ospreay	Ongoing - Your face down cards have Hidden.   Tie-Up Action - Commit : Play a card from your hand face down (choose a maneuver type and a target, it's a 0/2/2)
+Willow Nightingale	AEW	WillowNightingaleManager.jpg	N/A	N/A	2	Manager			Willow Nightingale 	Trigger - At the beginning of each Recovery Phase gain 2 Stamina. 
+Winded	AEW	Winded.png	0	N/A	0	Injury				Ongoing - Your Hold is -1
+Wise	AEW	Wise.jpg	9	0	4	Action				Permanent.  Ongoing - Your cards are -1C.  Christian Cage Enters - Attempt to Anger the Crowd. 
+Word of the Day	AEW	WordOfTheDay.jpg	4	0	2	Action			The Conglomeration	Enters - Choose any number of cards from your discard and market. You may pay 1M for each card to Tuck that card. If cards from your discard are tucked this way draw a card and gain 2 Stamina. Then refill your Market. 
+World's Most Dangerous Slam	AEW	WorldsMostDangerousSlam.jpg	18	16	16	Grapple	T	Slam	Will Hobbs	Ongoing - Your maneuvers with no printed abilities are +3D. Enters - You may have this gain Permanent this turn. 
