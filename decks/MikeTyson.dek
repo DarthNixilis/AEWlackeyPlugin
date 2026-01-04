@@ -1,0 +1,76 @@
+<deck version="0.8">
+	<meta>
+		<game>AEW</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="Jab.jpg">Jab</name><set>AEW</set></card>
+		<card><name id="Jab.jpg">Jab</name><set>AEW</set></card>
+		<card><name id="CrossPunch.jpg">Cross Punch</name><set>AEW</set></card>
+		<card><name id="CrossPunch.jpg">Cross Punch</name><set>AEW</set></card>
+		<card><name id="OverhandPunch.jpg">Overhand Punch</name><set>AEW</set></card>
+		<card><name id="OverhandPunch.jpg">Overhand Punch</name><set>AEW</set></card>
+		<card><name id="LeadHook.jpg">Lead Hook</name><set>AEW</set></card>
+		<card><name id="LeadHook.jpg">Lead Hook</name><set>AEW</set></card>
+		<card><name id="TakeABreather.jpg">Take a Breather</name><set>AEW</set></card>
+		<card><name id="ReachTheRopes.jpg">Reach the Ropes</name><set>AEW</set></card>
+		<card><name id="RookieMistake.jpg">Rookie Mistake</name><set>AEW</set></card>
+		<card><name id="RookieMistake.jpg">Rookie Mistake</name><set>AEW</set></card>
+		<card><name id="RudeInterruption.jpg">Rude Interruption</name><set>AEW</set></card>
+		<card><name id="RudeInterruption.jpg">Rude Interruption</name><set>AEW</set></card>
+		<card><name id="AntiAir.jpg">Anti-Air</name><set>AEW</set></card>
+		<card><name id="BreakFree.jpg">Break Free</name><set>AEW</set></card>
+		<card><name id="BreakFree.jpg">Break Free</name><set>AEW</set></card>
+		<card><name id="Block.jpg">Block</name><set>AEW</set></card>
+		<card><name id="Block.jpg">Block</name><set>AEW</set></card>
+		<card><name id="StudyOpponent.jpg">Study Opponent</name><set>AEW</set></card>
+		<card><name id="StudyOpponent.jpg">Study Opponent</name><set>AEW</set></card>
+		<card><name id="ThrowMoneyAround.jpg">Throw Money Around</name><set>AEW</set></card>
+		<card><name id="DropStep.jpg">Drop Step</name><set>AEW</set></card>
+		<card><name id="DropStep.jpg">Drop Step</name><set>AEW</set></card>
+	</superzone>
+	<superzone name="Purchase_Deck">
+		<card><name id="DiscussPunch.jpg">Discuss Punch</name><set>AEW</set></card>
+		<card><name id="DiscussPunch.jpg">Discuss Punch</name><set>AEW</set></card>
+		<card><name id="DiscussPunch.jpg">Discuss Punch</name><set>AEW</set></card>
+		<card><name id="WorkTheBody.jpg">Work the Body</name><set>AEW</set></card>
+		<card><name id="WorkTheBody.jpg">Work the Body</name><set>AEW</set></card>
+		<card><name id="WorkTheBody.jpg">Work the Body</name><set>AEW</set></card>
+		<card><name id="Loved.jpg">Loved</name><set>AEW</set></card>
+		<card><name id="StealTheMic.jpg">Steal the Mic</name><set>AEW</set></card>
+		<card><name id="ShoveOff.jpg">Shove Off</name><set>AEW</set></card>
+		<card><name id="EscapeTheHold.jpg">Escape the Hold</name><set>AEW</set></card>
+		<card><name id="SlipAway.jpg">Slip Away</name><set>AEW</set></card>
+		<card><name id="HadItScouted.jpg">Had It Scouted</name><set>AEW</set></card>
+		<card><name id="HadItScouted.jpg">Had It Scouted</name><set>AEW</set></card>
+		<card><name id="HadItScouted.jpg">Had It Scouted</name><set>AEW</set></card>
+		<card><name id="UntilTheyGetPunchedInTheFace.jpg">Until They Get Punched in the Face</name><set>AEW</set></card>
+		<card><name id="UntilTheyGetPunchedInTheFace.jpg">Until They Get Punched in the Face</name><set>AEW</set></card>
+		<card><name id="SkilledBoxer.jpg">Skilled Boxer</name><set>AEW</set></card>
+		<card><name id="SkilledBoxer.jpg">Skilled Boxer</name><set>AEW</set></card>
+		<card><name id="LightsOut.jpg">Lights Out</name><set>AEW</set></card>
+		<card><name id="LightsOut.jpg">Lights Out</name><set>AEW</set></card>
+		<card><name id="Headbutt.jpg">Headbutt</name><set>AEW</set></card>
+		<card><name id="Headbutt.jpg">Headbutt</name><set>AEW</set></card>
+		<card><name id="Headbutt.jpg">Headbutt</name><set>AEW</set></card>
+		<card><name id="TrickPunch.jpg">Trick Punch</name><set>AEW</set></card>
+		<card><name id="TrickPunch.jpg">Trick Punch</name><set>AEW</set></card>
+		<card><name id="TrickPunch.jpg">Trick Punch</name><set>AEW</set></card>
+		<card><name id="TheOlOneTwo.jpg">The 'Ol One-Two</name><set>AEW</set></card>
+		<card><name id="TheOlOneTwo.jpg">The 'Ol One-Two</name><set>AEW</set></card>
+		<card><name id="TheOlOneTwo.jpg">The 'Ol One-Two</name><set>AEW</set></card>
+		<card><name id="Sniper.jpg">Sniper</name><set>AEW</set></card>
+		<card><name id="Sniper.jpg">Sniper</name><set>AEW</set></card>
+		<card><name id="Sniper.jpg">Sniper</name><set>AEW</set></card>
+		<card><name id="BurstOfEnergy.jpg">Burst of Energy</name><set>AEW</set></card>
+		<card><name id="IDigress.jpg">I Digress</name><set>AEW</set></card>
+		<card><name id="IntimidateOpponent.jpg">Intimidate Opponent</name><set>AEW</set></card>
+		<card><name id="IntimidateOpponent.jpg">Intimidate Opponent</name><set>AEW</set></card>
+	</superzone>
+	<superzone name="Starting">
+		<card><name id="MikeTysonWrestler.jpg">Mike Tyson</name><set>AEW</set></card>
+		<card><name id="BaddestUppercutOnThePlanet.jpg">Baddest Uppercut on the Planet</name><set>AEW</set></card>
+		<card><name id="BiteTheEar.jpg">Bite the Ear</name><set>AEW</set></card>
+		<card><name id="BaddestPlanOnThePlanet.jpg">Baddest Plan on the Planet</name><set>AEW</set></card>
+		<card><name id="MarinaShafirManager.jpg">Marina Shafir</name><set>AEW</set></card>
+	</superzone>
+</deck>

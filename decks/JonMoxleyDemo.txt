@@ -1,0 +1,36 @@
+2	Rookie Mistake
+2	Rude Interruption
+1	Arrive In Style
+2	Block
+2	Reach the Ropes
+2	Drop Step
+2	Break Free
+2	Hip Toss
+2	Study Opponent
+2	Front Chancery
+2	Front Kick
+2	Headlock Takedown
+1	Circle Opponent
+Purchase_Deck:
+3	Had It Scouted
+1	Burst of Energy
+2	Escape the Hold
+2	I Digress
+2	Powerslam
+3	Sleeper
+1	Strategic Beatdown
+3	DDT
+3	Quicken the Pace
+2	Shove Off
+2	Slip Away
+2	Chokeslam
+3	Amateurs
+1	Figure Four Leg Lock
+3	Samoan Drop
+3	Bulldog Choke
+Starting:
+1	Jon Moxley
+1	Marina Shafir
+1	Purveyor of Violence
+1	Paradigm Shift
+1	Unscripted Violence

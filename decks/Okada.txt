@@ -1,1 +1,33 @@
-
+2	Rookie Mistake
+2	Block
+2	Reach the Ropes
+2	Drop Step
+2	Break Free
+1	Hip Toss
+2	Circle Opponent
+2	Front Chancery
+2	Slap
+2	Collar and Elbow Lockup
+2	Irish Whip
+2	Quick Thinking
+1	Anti-Air
+Purchase_Deck:
+3	Bridging German Suplex
+2	Burst of Energy
+3	Chokeslam
+1	Enough of this Gay Banter
+3	Figure Four Leg Lock
+3	Had It Scouted
+3	Last Supper
+3	Lateral Press
+3	Loved
+3	Piledriver
+3	Pounce
+3	Quicken the Pace
+3	Selfless
+Starting:
+1	Kazuchika Okada
+1	Kenny Omega
+1 Rainmaker
+1 Bitch
+1 Rainmaker Pose
