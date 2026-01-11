@@ -1,4 +1,4 @@
-rawdeal	9-9-18
+AEW DBG Jan 2026
 plugins/AEW/plugininfo.txt	https://github.com/DarthNixilis/AEWlackeyPlugin/blob/85748020f67b311e26caa0eaa0209fa1320a2e71/plugininfo.txt	363668
 plugins/rawdeal/formats.txt	teamcanadaonline.net/lackey/formats.txt	60500
 plugins/AEW/sets/AEW.txt	https://github.com/DarthNixilis/AEWlackeyPlugin/blob/85748020f67b311e26caa0eaa0209fa1320a2e71/sets/AEW.txt	86346114
@@ -6,3 +6,4 @@ plugins/rawdeal/sets/setimages/general/cardback.jpg	teamcanadaonline.net/cardbac
 plugins/rawdeal/sets/setimages/general/spawned.jpg	teamcanadaonline.net/spawned.jpg	813171
 CardGeneralURLs:
 teamcanadaonline.net/sets/setimages
+
