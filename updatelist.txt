@@ -1,7 +1,7 @@
 rawdeal	9-9-18
-plugins/rawdeal/plugininfo.txt	teamcanadaonline.net/lackey/plugininfo.txt	363668
+plugins/AEW/plugininfo.txt	https://github.com/DarthNixilis/AEWlackeyPlugin/blob/85748020f67b311e26caa0eaa0209fa1320a2e71/plugininfo.txt	363668
 plugins/rawdeal/formats.txt	teamcanadaonline.net/lackey/formats.txt	60500
-plugins/rawdeal/sets/carddata.txt	teamcanadaonline.net/lackey/sets/carddata.txt	86346114
+plugins/AEW/sets/AEW.txt	https://github.com/DarthNixilis/AEWlackeyPlugin/blob/85748020f67b311e26caa0eaa0209fa1320a2e71/sets/AEW.txt	86346114
 plugins/rawdeal/sets/setimages/general/cardback.jpg	teamcanadaonline.net/cardback.jpg	262083
 plugins/rawdeal/sets/setimages/general/spawned.jpg	teamcanadaonline.net/spawned.jpg	813171
 CardGeneralURLs:
