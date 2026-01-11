@@ -13,6 +13,11 @@
 		<label>Hand Size</label>
 		<initialvalue>8</initialvalue>
 	</playerstat>	
+
+<playerstat>
+		<label>Hold</label>
+		<initialvalue>2</initialvalue>
+	</playerstat> 
 	
 	<playerstat>
 		<label>Market</label>
@@ -21,11 +26,6 @@
 
 	<playerstat>
 		<label>Momentum from Permanent</label>
-		<initialvalue>0</initialvalue>
-	</playerstat>
-
-	<playerstat>
-		<label>Spendable Momentum</label>
 		<initialvalue>0</initialvalue>
 	</playerstat>
 
@@ -43,20 +43,20 @@
 	<deckzone>
 		<label>Starting</label>
 	</deckzone>
+
+	<deckzone>
+		<label>Tokens</label>
+	</deckzone>
 	
 	<gamezone><label>Hand</label><visibletoowner>yes</visibletoowner><visibletoothers>no</visibletoothers></gamezone>
 	<gamezone><label>Deck</label></gamezone>
 	<gamezone><label>Discard</label><visibletoowner>yes</visibletoowner><visibletoothers>yes</visibletoothers></gamezone>
-	<gamezone><label>Starting</label><visibletoowner>yes</visibletoowner><visibletoothers>no</visibletoothers></gamezone>
+	<gamezone><label>Starting</label><visibletoowner>yes</visibletoowner><visibletoothers>yes</visibletoothers></gamezone>
 	<gamezone><label>Purchase_Deck</label></gamezone>
 	<gamezone><label>Market</label><visibletoowner>yes</visibletoowner><visibletoothers>yes</visibletoothers></gamezone>
-	<gamezone><label>Removed</label><visibletoowner>yes</visibletoowner><visibletoothers>no</visibletoothers></gamezone>
+	<gamezone><label>Removed</label><visibletoowner>yes</visibletoowner><visibletoothers>yes</visibletoothers></gamezone>
+	<gamezone><label>Tokens</label><visibletoowner>yes</visibletoowner><visibletoothers>no</visibletoothers></gamezone>
 	
-	<!-- PERSONA ZONES -->
-	<gamezone><label>Wrestler</label><visibletoowner>yes</visibletoowner><visibletoothers>yes</visibletoothers></gamezone>
-	<gamezone><label>Manager</label><visibletoowner>yes</visibletoowner><visibletoothers>yes</visibletoothers></gamezone>
-	<gamezone><label>Ring</label><visibletoowner>yes</visibletoowner><visibletoothers>yes</visibletoothers></gamezone>
-	<gamezone><label>Kit</label><visibletoowner>yes</visibletoowner><visibletoothers>yes</visibletoothers></gamezone>
 	
 	<!-- PHASES -->
 	<phase><label>Ready</label></phase>
@@ -71,17 +71,6 @@
 	</generalfunction>
 
 	<generalfunction>
-		<label>Overturn</label>
-		<kind>TRANSFERCARD</kind>
-		<sourceowner>performer</sourceowner>
-		<sourcegamezone>Deck</sourcegamezone>
-		<sourceposition>top</sourceposition>
-		<destinationgamezone>Discard</destinationgamezone>
-		<destinationposition>top</destinationposition>
-		<includeasbutton>yes</includeasbutton>
-	</generalfunction>
-
-	<generalfunction>
 		<label>Market a Card</label>
 		<kind>TRANSFERCARD</kind>
 		<sourceowner>performer</sourceowner>
@@ -91,6 +80,19 @@
 		<destinationposition>top</destinationposition>
 		<includeasbutton>yes</includeasbutton>
 	</generalfunction>
+
+<!-- CARD ROTATION FUNCTIONS - USING CORRECT KIND VALUES -->
+	<cardfunction>
+		<label>Commit</label>
+		<kind>MAKERIGHT90DEGREES</kind>
+		<includeasbutton>yes</includeasbutton>
+	</cardfunction>
+
+	<cardfunction>
+		<label>Uncommit</label>
+		<kind>MAKERIGHT0DEGREES</kind>
+		<includeasbutton>yes</includeasbutton>
+	</cardfunction> 
 
 	<!-- GENERAL ROTATION FUNCTIONS -->
 	<generalfunction>
@@ -104,32 +106,57 @@
 		<kind>MAKERIGHT0DEGREES</kind>
 		<includeasbutton>yes</includeasbutton>
 	</generalfunction>
-
-	<!-- CARD FUNCTIONS -->
-	<cardfunction><label>Take control</label><kind>CHANGEOWNER</kind></cardfunction>
-	<cardfunction><label>Clone</label><kind>CLONE</kind><includeasbutton>yes</includeasbutton></cardfunction>
-	<cardfunction><label>Clear</label><kind>CLEARCARD</kind><includeasbutton>yes</includeasbutton></cardfunction>
 	
 	<!-- COUNTER MANAGEMENT -->
-	<cardfunction><label>Green +1</label><kind>ADDCOUNTER</kind><color>green</color><includeasbutton>yes</includeasbutton><PositionX>0.3</PositionX><PositionY>-0.06</PositionY></cardfunction>
-	<cardfunction><label>Green -1</label><kind>REMOVECOUNTER</kind><color>green</color><includeasbutton>yes</includeasbutton></cardfunction>
-	<cardfunction><label>Red +1</label><kind>ADDCOUNTER</kind><color>red</color><includeasbutton>yes</includeasbutton><PositionX>0.5</PositionX><PositionY>-0.06</PositionY></cardfunction>
-	<cardfunction><label>Red -1</label><kind>REMOVECOUNTER</kind><color>red</color><includeasbutton>yes</includeasbutton></cardfunction>
-	<cardfunction><label>Blue +1</label><kind>ADDCOUNTER</kind><color>blue</color><includeasbutton>yes</includeasbutton><PositionX>0.7</PositionX><PositionY>-0.06</PositionY></cardfunction>
-	<cardfunction><label>Blue -1</label><kind>REMOVECOUNTER</kind><color>blue</color><includeasbutton>yes</includeasbutton></cardfunction>
-	
-	<!-- CARD ROTATION FUNCTIONS - USING CORRECT KIND VALUES -->
 	<cardfunction>
-		<label>Commit</label>
-		<kind>MAKERIGHT90DEGREES</kind>
-		<includeasbutton>yes</includeasbutton>
-	</cardfunction>
+	<label>Cost +1</label>
+	<kind>ADDCOUNTER</kind>
+	<color>red</color>
+	<includeasbutton>yes</includeasbutton>
+	<PositionX>0.8</PositionX>
+	<PositionY>0.8</PositionY>
+</cardfunction>
 
-	<cardfunction>
-		<label>Uncommit</label>
-		<kind>MAKERIGHT0DEGREES</kind>
-		<includeasbutton>yes</includeasbutton>
-	</cardfunction>
+<cardfunction>
+	<label>Cost -1</label>
+	<kind>REMOVECOUNTER</kind>
+	<color>red</color>
+	<includeasbutton>yes</includeasbutton>
+</cardfunction>
+
+<cardfunction>
+	<label>Momentum +1</label>
+	<kind>ADDCOUNTER</kind>
+	<color>green</color>
+	<includeasbutton>yes</includeasbutton>
+	<PositionX>0.32</PositionX>
+	<PositionY>0.7</PositionY>
+</cardfunction>
+
+<cardfunction>
+	<label>Momentum -1</label>
+	<kind>REMOVECOUNTER</kind>
+	<color>green</color>
+	<includeasbutton>yes</includeasbutton>
+</cardfunction>
+
+<cardfunction>
+	<label>Effect +1</label>
+	<kind>ADDCOUNTER</kind>
+	<color>voilet</color>
+	<includeasbutton>yes</includeasbutton>
+	<PositionX>0.5</PositionX>
+	<PositionY>0.25</PositionY>
+</cardfunction>
+
+<cardfunction>
+	<label>Effect -1</label>
+	<kind>REMOVECOUNTER</kind>
+	<color>purple</color>
+	<includeasbutton>yes</includeasbutton>
+</cardfunction>
+	
+	
 	
 	<!-- FLIP FUNCTIONS -->
 	<cardfunction>
@@ -144,6 +171,12 @@
 		<rotation>normal</rotation>
 		<includeasbutton>yes</includeasbutton>
 	</cardfunction>
+
+
+	<!-- CARD FUNCTIONS -->
+	<cardfunction><label>Take control</label><kind>CHANGEOWNER</kind></cardfunction>
+	<cardfunction><label>Clone</label><kind>CLONE</kind><includeasbutton>yes</includeasbutton></cardfunction>
+	<cardfunction><label>Clear</label><kind>CLEARCARD</kind><includeasbutton>yes</includeasbutton></cardfunction> 
 
 	<!-- PHASE ADVANCEMENT BUTTONS -->
 	<generalfunction>
